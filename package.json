@@ -1,0 +1,37 @@
+{
+  "name": "ri-swagger",
+  "version": "1.0.0",
+  "description": "Extension for route-injector. Provides swagger component",
+  "author": "Gerard Solé",
+  "contributors": [
+    {
+      "name": "Alex Albalá",
+      "email": "alex.alaba@alteraid.com"
+    },
+    {
+      "name": "Juan López",
+      "email": "juan.lopez@alteraid.com"
+    },
+    {
+      "name": "Gerard Solé",
+      "email": "g.sole.ca@gmail.com"
+    }
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RouteInjector/ri-swagger.git"
+  },
+  "keywords": [
+    "swagger",
+    "route-injector"
+  ],
+  "bugs": {
+    "url": "https://github.com/RouteInjector/ri-swagger/issues"
+  },
+  "homepage": "https://github.com/RouteInjector/ri-swagger#readme",
+  "dependencies": {
+    "swagger-ui": "2.0.24",
+    "swagger-node-express": "2.0.3"
+  }
+}
