@@ -1,6 +1,6 @@
 {
   "name": "ri-swagger",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Extension for route-injector. Provides swagger component",
   "author": "Gerard Solé",
   "contributors": [
